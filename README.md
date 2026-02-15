@@ -184,13 +184,15 @@ GameBudget.Net is commercial software.
 
 Popular & accessible tiers
 Indie — $49 / year
- For individuals and small teams (up to 5 developers),commercial use allowed.
+For individuals and small teams (up to 5 developers),commercial use allowed.
+
 Studio — $199 / year
  For teams up to 25 developers.
-Enterprise — $999 / year
- Unlimited developers within one organization + priority support.
 
-Free evaluation:14 days (no redistribution).
+Enterprise — $999 / year
+Unlimited developers within one organization + priority support.
+
+
 
 To purchase,request an invoice,or discuss custom terms,contact us.
 
